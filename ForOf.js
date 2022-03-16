@@ -16,4 +16,3 @@ for (let amount of amounts) {
 }
 console.log('Order total is: ' + total);
 
-
