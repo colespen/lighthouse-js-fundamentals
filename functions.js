@@ -50,3 +50,24 @@ function add(x,y) {
 let sum = add(4, 20);
 console.log(sum);
 */
+
+//Laugh Quiz
+/*
+function laugh() {
+  return "hahahahahahahahahaha!";
+}
+console.log(laugh());
+*/
+
+//Laugh Quiz #2
+/*
+let print = "" //must declare empty string
+function laugh(num) {
+  for (let i = 1; i < num; i++) {
+    print += "ha";
+  } 
+  return print += "ha!"; 
+  //must end w return or 'undefined'
+}
+console.log(laugh(53))
+*/
