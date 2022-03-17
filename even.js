@@ -4,3 +4,4 @@ const isEven = function (num) {
 
 console.log(isEven(68));
 console.log(isEven(69));
+
