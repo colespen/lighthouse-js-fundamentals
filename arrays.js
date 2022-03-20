@@ -124,7 +124,7 @@ for (let r of array) {
 */
 
 //        *Nested Numbers*
-
+/*
 let numbers = [
   [243, 12, 23, 12, 45, 45, 78, 66, 223, 3],
   [34, 2, 1, 553, 23, 4, 66, 23, 4, 55],
@@ -144,4 +144,5 @@ for (let r = 0; r < numbers.length; r++) {
   }
 }
 console.log(numbers); 
-
+*/
+console.log(Boolean("bob" && "marley"));
